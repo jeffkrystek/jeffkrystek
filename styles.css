@@ -36,3 +36,16 @@ h3 {
     font-size: 30px;
     margin-top: 60px;
 }
+.github-link {
+    display: inline-block;
+    padding: 10px 20px;
+    margin-top: 20px;
+    border: 1px solid #333;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.github-link:hover {
+    opacity: 0.8;
+}
