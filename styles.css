@@ -15,7 +15,6 @@ main {
 img {
     width: 220px;
     max-width: 100%;
-    transform: scale(2);
 }
 
 h1 {
