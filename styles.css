@@ -109,6 +109,16 @@ p {
     margin: 0 auto;
 }
 
+/* Why Yek feature sections */
+.why-yek h3 {
+    padding-top: 10px;
+}
+
+.why-yek h3:not(:first-of-type) {
+    border-top: 1px solid #e5e9ee;
+    padding-top: 30px;
+}
+
 /* GitHub button */
 .github-link {
     display: inline-block;
