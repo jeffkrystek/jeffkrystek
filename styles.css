@@ -43,6 +43,42 @@ p {
     line-height: 1.6;
 }
 
+/* Yek Flashcards */
+.flashcards {
+    max-width: 700px;
+    margin: 0 auto 80px;
+}
+
+.flashcards h2 {
+    margin-bottom: 15px;
+}
+
+.language-pair {
+    font-size: 22px;
+    font-weight: bold;
+    margin: 0;
+}
+
+.language-pair-persian {
+    font-size: 20px;
+    margin: 5px 0 30px;
+}
+
+.app-description {
+    max-width: 650px;
+    margin: 0 auto 25px;
+}
+
+.coming-soon {
+    display: inline-block;
+    margin: 10px 0 0;
+    padding: 8px 18px;
+    border: 1px solid #173b67;
+    border-radius: 20px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
 /* Yek Flashcards section */
 main > h3 {
     margin-top: 0;
