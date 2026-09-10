@@ -154,6 +154,31 @@ p {
     opacity: 0.7;
 }
 
+/* Connect section */
+.connect {
+    max-width: 750px;
+    margin: 0 auto;
+    padding-top: 50px;
+    border-top: 1px solid #d9e0e8;
+}
+
+.social-section {
+    margin-top: 60px;
+}
+
+.social-section h2 {
+    margin-bottom: 10px;
+}
+
+.social-section p {
+    margin: 0 0 25px;
+    font-size: 17px;
+}
+
+.social-links {
+    margin-top: 0;
+}
+
 /* Flashcards product card */
 .flashcards {
     max-width: 700px;
