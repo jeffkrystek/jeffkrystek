@@ -79,24 +79,6 @@ p {
     font-weight: bold;
 }
 
-/* Yek Flashcards section */
-main > h3 {
-    margin-top: 0;
-}
-
-main > h3 + p {
-    margin-bottom: 8px;
-}
-
-main > h3 + p + p {
-    margin-top: 0;
-}
-
-main > h3 + p + p + p {
-    margin-top: 25px;
-    margin-bottom: 50px;
-}
-
 /* About Yek */
 .about-yek {
     max-width: 750px;
