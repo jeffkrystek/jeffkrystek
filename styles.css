@@ -144,6 +144,24 @@ p {
     opacity: 0.7;
 }
 
+/* Flashcards product card */
+.flashcards {
+    max-width: 700px;
+    margin: 0 auto 80px;
+    padding: 40px 35px;
+    border: 1px solid #d9e0e8;
+    border-radius: 12px;
+    box-sizing: border-box;
+}
+
+.flashcards h2 {
+    margin-bottom: 15px;
+}
+
+.flashcards .app-description {
+    max-width: 600px;
+}
+
 /* Mobile */
 @media (max-width: 600px) {
     main {
