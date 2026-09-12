@@ -229,3 +229,48 @@ p {
         margin-top: 35px;
     }
 }
+
+/* Confirmation pages */
+.confirmation-page {
+    max-width: 650px;
+    margin: 70px auto;
+    padding: 50px 35px;
+    border: 1px solid #d9e0e8;
+    border-radius: 12px;
+    box-sizing: border-box;
+}
+
+.confirmation-page h1 {
+    font-size: 32px;
+    margin: 0 0 30px;
+}
+
+.confirmation-page p {
+    margin: 0 auto 25px;
+}
+
+.back-link {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 12px 24px;
+    border: 1px solid #173b67;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #173b67;
+}
+
+.back-link:hover {
+    opacity: 0.8;
+}
+
+@media (max-width: 600px) {
+    .confirmation-page {
+        margin: 50px auto;
+        padding: 35px 25px;
+    }
+
+    .confirmation-page h1 {
+        font-size: 28px;
+    }
+}
