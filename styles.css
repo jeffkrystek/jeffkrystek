@@ -274,3 +274,81 @@ p {
         font-size: 28px;
     }
 }
+
+```css
+/* Early Access Signup */
+.early-access {
+    max-width: 750px;
+    margin: 0 auto 70px;
+    padding-top: 50px;
+    border-top: 1px solid #d9e0e8;
+}
+
+.early-access h2 {
+    margin-bottom: 15px;
+}
+
+.early-access-intro {
+    max-width: 650px;
+    margin: 0 auto 30px;
+}
+
+.early-access .sib-form {
+    background-color: transparent !important;
+    padding: 0 !important;
+}
+
+.early-access #sib-form-container {
+    width: 100%;
+}
+
+.early-access #sib-container {
+    max-width: 540px !important;
+    margin: 0 auto;
+    box-sizing: border-box;
+    border: 1px solid #d9e0e8 !important;
+    border-radius: 12px !important;
+    box-shadow: none !important;
+}
+
+.early-access #sib-form {
+    font-family: Arial, sans-serif !important;
+}
+
+.early-access #EMAIL {
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.early-access .sib-form-block__button {
+    text-align: center !important;
+    background-color: #173b67 !important;
+    border-radius: 6px !important;
+    padding: 12px 24px !important;
+    cursor: pointer;
+}
+
+.early-access .sib-form-block__button:hover {
+    opacity: 0.85;
+}
+
+.early-access .sib-form-message-panel {
+    margin: 0 auto 15px;
+}
+
+@media (max-width: 600px) {
+    .early-access {
+        padding-top: 35px;
+        margin-bottom: 55px;
+    }
+
+    .early-access-intro {
+        margin-bottom: 25px;
+    }
+
+    .early-access #sib-container {
+        width: 100% !important;
+    }
+}
+```
+
